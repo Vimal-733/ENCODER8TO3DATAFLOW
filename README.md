@@ -46,11 +46,18 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![gates](https://github.com/user-attachments/assets/e5a0468e-c6c3-49e4-a763-3ea284809b0e)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![gates2](https://github.com/user-attachments/assets/d571cb10-4969-4e32-a5a9-1ac705e291ab)
 
 **RESULTS**
 
 
+The results of the 8-to-3 encoder simulation for the given inputs are:
 
+Input: [1, 0, 0, 0, 0, 0, 0, 0] → Output: [0, 0, 0]
+Input: [0, 1, 0, 0, 0, 0, 0, 0] → Output: [0, 0, 1]
+Input: [0, 0, 1, 0, 0, 0, 0, 0] → Output: [0, 1, 0]
+Input: [0, 0, 0, 0, 0, 0, 0, 1] → Output: [1, 1, 1]
 
