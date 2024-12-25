@@ -52,6 +52,8 @@ Developed by: RegisterNumber:
 ![gates2](https://github.com/user-attachments/assets/d571cb10-4969-4e32-a5a9-1ac705e291ab)
 
 **RESULTS**
+Simulating this will give the binary equivalent output of the active input. For example:
+D = 8'b0000_1000 → Y = 3'b011.
 
 
 The results of the 8-to-3 encoder simulation for the given inputs are:
